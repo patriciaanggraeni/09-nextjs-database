@@ -29,3 +29,11 @@ Pada soal pertama diberi cara untuk mendartar akun dan mengkoneksikan github den
 ![screenshot_praktikum_dua](/assets/praktikum_dua/10.png)
 
 Menjelaskan cara membuat database baru menggunakan PosgreSQL, mengkonfigurasi database, membuat dan mengkonfigurasi file .env, setting package.json untuk kustomisasi perintah run dan melakukan seeder ke database.
+
+#### Soal 3: Capture hasil npm run seed Anda. Jelaskan apa yang telah Anda pelajari?
+
+![screenshot_praktikum_tiga](/assets/praktikum_tiga/11.png)
+
+![screenshot_praktikum_tiga](/assets/praktikum_tiga/12.png)
+
+Mengecek apakah data yang telah dibuat sebelumnya sudah terbaca pada dashboard dan mencoba melakukan query sederhana dimana mencari nama customer nama dan tagihan berdasarkan customer id.
