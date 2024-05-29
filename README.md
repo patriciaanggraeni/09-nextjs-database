@@ -37,3 +37,9 @@ Menjelaskan cara membuat database baru menggunakan PosgreSQL, mengkonfigurasi da
 ![screenshot_praktikum_tiga](/assets/praktikum_tiga/12.png)
 
 Mengecek apakah data yang telah dibuat sebelumnya sudah terbaca pada dashboard dan mencoba melakukan query sederhana dimana mencari nama customer nama dan tagihan berdasarkan customer id.
+
+#### Soal 4: Jelaskan apa yang telah Anda pelajari? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda.
+
+![screenshot_praktikum_tiga](/assets/praktikum_tiga/13.png)
+
+Jika nilai kondisi diganti 777 maka tidak muncul hasil, karena customer degan id 777 tidak ada tagihan yang masuk.
