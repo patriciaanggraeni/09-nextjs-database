@@ -43,3 +43,9 @@ Mengecek apakah data yang telah dibuat sebelumnya sudah terbaca pada dashboard d
 ![screenshot_praktikum_tiga](/assets/praktikum_tiga/13.png)
 
 Jika nilai kondisi diganti 777 maka tidak muncul hasil, karena customer degan id 777 tidak ada tagihan yang masuk.
+
+### Soal 5: Jelaskan apa yang telah Anda pelajari?
+
+![screenshot_praktikum_tiga](/assets/praktikum_tiga/14.png)
+
+Hanya tampil teks Dashboard
